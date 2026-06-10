@@ -1,0 +1,365 @@
+﻿  main.cpp
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,21): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,32): error C2143: 語法錯誤: 遺漏 ',' (在 '&' 之前)
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2270: '==': 不允許在非成員函式上使用修飾元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2803: 運算子 '==' 至少必須擁有一個類別類型的參數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2805: 二進位運算子 『==』 的參數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(26,1): error C2059: 語法錯誤: '}'
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(26,1): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,11): error C2065: 'Point': 未宣告的識別項
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,5): error C2923: 'std::deque': 對參數 '_Ty' 而言，'Point' 不是有效的 樣板 型別引數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,11):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,5): error C2976: 'std::deque': 樣板 引數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,11): error C3646: 'getHead': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,18): error C2059: 語法錯誤: '('
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,26): error C2238: 在 ';' 之前有未預期的語彙基元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,17): error C2065: 'Point': 未宣告的識別項
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,11): error C2923: 'std::deque': 對參數 '_Ty' 而言，'Point' 不是有效的 樣板 型別引數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,17):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,11): error C2976: 'std::deque': 樣板 引數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(46,19): error C2061: 語法錯誤: 識別項 'Point'
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(52,11): error C3646: 'position': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(52,5): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,11): error C3646: 'getPosition': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,22): error C2059: 語法錯誤: '('
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,30): error C2238: 在 ';' 之前有未預期的語彙基元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/main.cpp')
+  
+  SnakeGame.cpp
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,21): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,32): error C2143: 語法錯誤: 遺漏 ',' (在 '&' 之前)
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2270: '==': 不允許在非成員函式上使用修飾元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2803: 運算子 '==' 至少必須擁有一個類別類型的參數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(25,10): error C2805: 二進位運算子 『==』 的參數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(26,1): error C2059: 語法錯誤: '}'
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(26,1): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,11): error C2065: 'Point': 未宣告的識別項
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,5): error C2923: 'std::deque': 對參數 '_Ty' 而言，'Point' 不是有效的 樣板 型別引數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,11):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(31,5): error C2976: 'std::deque': 樣板 引數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,11): error C3646: 'getHead': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,18): error C2059: 語法錯誤: '('
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(38,26): error C2238: 在 ';' 之前有未預期的語彙基元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,17): error C2065: 'Point': 未宣告的識別項
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,11): error C2923: 'std::deque': 對參數 '_Ty' 而言，'Point' 不是有效的 樣板 型別引數
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,17):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(39,11): error C2976: 'std::deque': 樣板 引數太少
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(46,19): error C2061: 語法錯誤: 識別項 'Point'
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(52,11): error C3646: 'position': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(52,5): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,11): error C3646: 'getPosition': 未知的覆寫規範
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,22): error C2059: 語法錯誤: '('
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(59,30): error C2238: 在 ';' 之前有未預期的語彙基元
+  (編譯來源檔案 '../../../../../Downloads/SnakeGame_ThreeFiles/SnakeGame.cpp')
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,6): error C2653: 'Point': 不是類別或命名空間名稱
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,24): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,35): error C2143: 語法錯誤: 遺漏 ',' (在 '&' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,13): error C2270: '==': 不允許在非成員函式上使用修飾元
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,13): error C2803: 運算子 '==' 至少必須擁有一個類別類型的參數
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(7,13): error C2805: 二進位運算子 『==』 的參數太少
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(8,17): error C2065: 'other': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(8,33): error C2065: 'other': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(12,38): error C2512: 'std::deque': 沒有適當的預設建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(17,10): error C2662: 'void std::deque<_Ty,_Alloc>::clear(void) noexcept': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(17,5):
+      原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(17,5):
+      轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1575,10):
+      請參閱 'std::deque<_Ty,_Alloc>::clear' 的宣告
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(17,10):
+      當嘗試符合引數清單 '()' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,10): error C2663: 'std::deque<_Ty,_Alloc>::push_back': 沒有任何多載函式具有 'this' 指標的有效轉換
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1252,10):
+      可能是 'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,10):
+          'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1247,10):
+      或       'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,10):
+          'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(19,10):
+      當嘗試符合引數清單 '(initializer list)' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,10): error C2663: 'std::deque<_Ty,_Alloc>::push_back': 沒有任何多載函式具有 'this' 指標的有效轉換
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1252,10):
+      可能是 'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,10):
+          'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1247,10):
+      或       'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,10):
+          'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(20,10):
+      當嘗試符合引數清單 '(initializer list)' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,10): error C2663: 'std::deque<_Ty,_Alloc>::push_back': 沒有任何多載函式具有 'this' 指標的有效轉換
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1252,10):
+      可能是 'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,10):
+          'void std::deque<_Ty,_Alloc>::push_back(_Ty &&)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1247,10):
+      或       'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,10):
+          'void std::deque<_Ty,_Alloc>::push_back(const _Ty &)': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,5):
+              原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,5):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(21,10):
+      當嘗試符合引數清單 '(initializer list)' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(23,5): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,14): error C2039: 'getHead': 並非 'Snake' 的成員
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(29,7):
+      請參閱 'Snake' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,1): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,14): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'getHead' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,30): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,30): error C2447: '{': 遺漏函式標頭 (舊樣式型式清單?)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(31,7): error C2923: 'std::deque': 對參數 '_Ty' 而言，'Point' 不是有效的 樣板 型別引數
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,1):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(31,7): error C2976: 'std::deque': 樣板 引數太少
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(600,7):
+      請參閱 'std::deque' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(37,9): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(38,9): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(39,9): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(41,5): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(45,11): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'newHead' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(45,11): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(45,21): error C3861: 'getHead': 找不到識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(47,13): error C2065: 'direction': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(47,13): error C2050: switch 運算式不是整數
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(48,21): error C2440: '類型轉換': 無法由 'Direction' 轉換為 'int'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(48,21):
+      此轉換必須有明確轉換 (static_cast、C-Style 轉換或小括號內的函式樣式轉換)
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(48,5): error C2046: case 的使用不合法
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(49,9): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(51,21): error C2440: '類型轉換': 無法由 'Direction' 轉換為 'int'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(51,21):
+      此轉換必須有明確轉換 (static_cast、C-Style 轉換或小括號內的函式樣式轉換)
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(51,5): error C2046: case 的使用不合法
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(52,9): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(54,21): error C2440: '類型轉換': 無法由 'Direction' 轉換為 'int'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(54,21):
+      此轉換必須有明確轉換 (static_cast、C-Style 轉換或小括號內的函式樣式轉換)
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(54,5): error C2046: case 的使用不合法
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(55,9): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(57,21): error C2440: '類型轉換': 無法由 'Direction' 轉換為 'int'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(57,21):
+      此轉換必須有明確轉換 (static_cast、C-Style 轉換或小括號內的函式樣式轉換)
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(57,5): error C2046: case 的使用不合法
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(58,9): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(62,21): error C2065: 'newHead': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(68,14): error C2662: 'void std::deque<_Ty,_Alloc>::pop_back(void) noexcept': 無法將 'this' 指標從 'std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(68,9):
+      原因: 無法從 'std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(68,9):
+      轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1503,10):
+      請參閱 'std::deque<_Ty,_Alloc>::pop_back' 的宣告
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(68,14):
+      當嘗試符合引數清單 '()' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(60,5): warning C4060: switch 陳述式沒有包含 'case' 或 'default' 標籤
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(77,11): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'head' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(77,11): error C2065: 'head': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(77,18): error C3861: 'getHead': 找不到識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(79,33): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::deque<_Ty,_Alloc>::size(void) noexcept const': 無法將 'this' 指標從 'const std::deque' 轉換成 'const std::deque<_Ty,_Alloc> &'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(79,28):
+      原因: 無法從 'const std::deque'轉換為 'const std::deque<_Ty,_Alloc>'
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(79,28):
+      轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(974,26):
+      請參閱 'std::deque<_Ty,_Alloc>::size' 的宣告
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(79,33):
+      當嘗試符合引數清單 '()' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13): error C2678: 二元運算子 '[': 找不到使用左方運算元類型 'const std::deque' 的運算子 (或是沒有可接受的轉換)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1085,26):
+      可能是 '_Ty &std::deque<_Ty,_Alloc>::operator [](allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+          '_Ty &std::deque<_Ty,_Alloc>::operator [](allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept': 無法將 'this' 指標從 'const std::deque' 轉換成 'std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+              原因: 無法從 'const std::deque'轉換為 'std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1077,32):
+      或       'const _Ty &std::deque<_Ty,_Alloc>::operator [](allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept const'
+          C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+          'const _Ty &std::deque<_Ty,_Alloc>::operator [](allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type) noexcept const': 無法將 'this' 指標從 'const std::deque' 轉換成 'const std::deque<_Ty,_Alloc> &'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+              原因: 無法從 'const std::deque'轉換為 'const std::deque<_Ty,_Alloc>'
+              C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+              轉換必須有第二個使用者定義轉換運算子或建構函式
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,13):
+      當嘗試符合引數清單 '(const std::deque, size_t)' 時
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(80,24): error C2065: 'head': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(88,13): error C2761: 'bool Snake::occupies(void) const': 不允許重新宣告成員
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(88,28): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'p' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(88,37): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(88,37): error C2447: '{': 遺漏函式標頭 (舊樣式型式清單?)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(102,5): error C2065: 'position': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(102,14): error C3079: 初始設定式清單不得用為此指派運算子的右運算元
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(110,9): error C2065: 'position': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(111,9): error C2065: 'position': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(112,29): error C2065: 'position': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,13): error C2039: 'getPosition': 並非 'Food' 的成員
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.h(50,7):
+      請參閱 'Food' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,1): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,1): error C2086: 'int Point': 重複定義
+      C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(27,1):
+      請參閱 'Point' 的宣告
+  
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,13): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'getPosition' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,33): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(115,33): error C2447: '{': 遺漏函式標頭 (舊樣式型式清單?)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(189,21): error C2065: 'key': 未宣告的識別項
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(189,21): error C2050: switch 運算式不是整數
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(213,5): error C2059: 語法錯誤: 'return'
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(214,1): error C2059: 語法錯誤: '}'
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(214,1): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(216,21): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(216,21): error C2447: '{': 遺漏函式標頭 (舊樣式型式清單?)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(263,11): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'foodPos' 之前)
+C:\Users\USER\Downloads\SnakeGame_ThreeFiles\SnakeGame.cpp(263,11): error C1003: 錯誤計數超過 100; 停止編譯
